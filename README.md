@@ -1,2 +1,5 @@
+
 # Basics-of-HTML
-HTML tags 
+A simple webpage deployed link is here,,
+# HTML tags 
+[view](https://premtj.github.io/Basics-of-HTML/index.html)
